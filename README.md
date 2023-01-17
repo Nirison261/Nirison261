@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nirison261
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning ARMv7 architecture
+- 🌱 I’m currently learning ARMs architectures
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: nirisonfabricerak@gmail.com
 
