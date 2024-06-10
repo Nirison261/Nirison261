@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nirison261
+- 👋 Hi, I’m Nirison261
 - 👀 I’m interested in Embedded Systems
 - 🌱 I’m currently learning ARMs architectures
 - 💞️ I’m looking to collaborate on anything interesting
